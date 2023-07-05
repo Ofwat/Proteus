@@ -1,1 +1,45 @@
 # Proteus
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [License](#License)
+* [Contributing](#Contributing)
+
+## General info
+Proteus is a data validation and verification software application that helps ensure that the collected data reflect its intended purpose. The application checks that data in the destination file (a company's set of business plan tables) matches certain expectations.  
+The tool automatically performs a level of verification of the populated data, matching all the records and flagging exceptions. 
+Proteus application should run after completing with data the version 5 of the business plan table template. 
+	
+## Technologies
+Project is created with:
+* Python 3.7.3
+* pyinstaller 5.12.0
+	
+## Setup
+To run this project, you will need to download :  
+1. Comparison template This is version 5 of the business plan table template published on our website. It does not contain any user input. This file is used as the basis of comparison with a company's set of business plan tables. The Excel file name is: Comparison_PR24.xlsx. 
+2. Populated template This is the 'comparison template' although it should contain user input. Please fill in all the relevant sheets before running the application. 
+3. Proteus.exe: The .exe file is a Windows-specific executable file format. When the user triggers it, the computer runs the code that the file contains.
+
+The steps to run .exe are as follows:  
+
+1. Download the Proteus.exe file and the comparison template. Store the above files and the populated template in the same folder.  
+2. The comparison template file name is case sensitive. It is essential not to make any changes to this file.   
+3. After data completion save the populated template in the file format (.xlsx). To do so open the workbook you want to save. Click File > Save As. Pick the place where you want to save the workbook. For example, select Computer to save it in a local folder where Proteus.exe and Comparison template is also saved. In the Save as type list, click the file format Excel Workbook (*.xlsx).  
+4. Double-click the Proteus.exe file to run it. This brings up a console that asks user input filename of the data on which they wish to run the data validation rules. 
+5. The message that the user should see on the Windows Command Prompt is: "Enter filename (full path)".  
+6. Add the full (absolute) path of the [populated template] and press Enter to run the file. (A full path refers to the complete details needed to locate a file or folder, starting from the root element, and ending with the other subdirectories). For example, a full path is: C:\Users\Maria.diapouli\OneDrive -OFWAT\Python\validation_tool\original\company_RP24_BP_tables_v5.03.xlsx 
+7. Once the user has entered the file's name, the console will close. 
+8. If the application runs successfully, the user will see an error log file in the same folder. Please look at the "Example of Error Log file .txt" as an indicator on what this error log file would look like, if no errors are detected.  
+9. Open the Error Log File to view the results of the data validation rules. (If the application couldn't run then the error log file will be empty. There is no information to display.) 
+10. At the beginning of the file there is a timestamp showing when the error log was created. Every time the application runs a new version of error log file is created.  
+
+## License
+Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ for more information.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you have a suggestion that would make this better, pleace contact:
+maria.diapouli@ofwat.gov.uk 
+alex.whitmarsh@gov.uk
