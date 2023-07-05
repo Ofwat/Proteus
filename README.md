@@ -41,5 +41,10 @@ Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nati
 
 ## Contributing
 If you have a suggestion that would make this better, pleace contact:
-maria.diapouli@ofwat.gov.uk 
+PR24@ofwat.gov.uk ,
+maria.diapouli@ofwat.gov.uk ,  
 alex.whitmarsh@gov.uk
+
+## Contact
+Lead Developer: Maria Diapouli: maria.diapouli@ofwat.gov.uk
+Quality Assurance: Alex Alex Whitmarsh: Alex.Whitmarsh@ofwat.gov.uk
