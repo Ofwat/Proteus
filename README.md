@@ -40,7 +40,6 @@ The steps to run .exe are as follows:
 Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ for more information.
 
 ## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 If you have a suggestion that would make this better, pleace contact:
 maria.diapouli@ofwat.gov.uk 
 alex.whitmarsh@gov.uk
