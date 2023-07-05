@@ -48,4 +48,4 @@ alex.whitmarsh@gov.uk
 
 ## Contact
 * Lead Developer: Maria Diapouli: maria.diapouli@ofwat.gov.uk
-* Quality Assurance: Alex Alex Whitmarsh: Alex.Whitmarsh@ofwat.gov.uk
+* Quality Assurance: Alex Whitmarsh: Alex.Whitmarsh@ofwat.gov.uk
