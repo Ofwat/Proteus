@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Setup](#Setup) 
 * [License](#License)
 * [Contributing](#Contributing)
 
