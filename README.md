@@ -6,6 +6,7 @@
 * [Setup](#Setup) 
 * [License](#License)
 * [Contributing](#Contributing)
+* [Contact](#Contact) 
 
 ## General info
 Proteus is a data validation and verification software application that helps ensure that the collected data reflect its intended purpose. The application checks that data in the destination file (a company's set of business plan tables) matches certain expectations.  
@@ -46,5 +47,5 @@ maria.diapouli@ofwat.gov.uk ,
 alex.whitmarsh@gov.uk
 
 ## Contact
-Lead Developer: Maria Diapouli: maria.diapouli@ofwat.gov.uk
-Quality Assurance: Alex Alex Whitmarsh: Alex.Whitmarsh@ofwat.gov.uk
+* Lead Developer: Maria Diapouli: maria.diapouli@ofwat.gov.uk
+* Quality Assurance: Alex Alex Whitmarsh: Alex.Whitmarsh@ofwat.gov.uk
