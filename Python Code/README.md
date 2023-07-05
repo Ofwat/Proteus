@@ -4,8 +4,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#Setup)
-* [PyInstaller Artifacts](#PyInstaller Artifacts) 
-* [.Exe limitations](#.Exe limitations) 
+* [PyInstaller Artifacts](#PyInstaller-Artifacts) 
+* [.Exe limitations](#.Exe-limitations) 
 * [License](#License)
 * [Contributing](#Contributing)
 
@@ -18,7 +18,7 @@ Project is created with:
 * pyinstaller 5.12.0
 	
 ## Setup
-# Preparing Your Project
+### Preparing Your Project
 
 1. Install Pyinstaller. You can do this using pip like other Python packages:
 ```$ pip install pyinstaller```
