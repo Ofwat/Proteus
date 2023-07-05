@@ -26,18 +26,13 @@ if __name__ == "__main__":
     
     if not file_location.isalpha():
         file_location = str(file_location)
-    # file_exists(file_location)
         
     if not os.path.exists(file_location):
         print(f"File location: {file_location} is invalid. Please provide a valid file location.")
         sys.exit()
     
-
-    #os.remove('log.txt')
-    # file_location ='original/company_RP24_BP_tables_v5.03.xlsx' 
-    original_file_location ='Original_PR24_BP_tables_V5.03.xlsx'
-
-    
+    original_file_location ='Comparion_PR24.xlsx'
+  
 
      ## Functions to execute 
     timestamp_error_log(error_log_name)
