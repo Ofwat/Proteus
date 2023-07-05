@@ -36,12 +36,12 @@ Project is created with:
 8. Open the Dist Folder to run the Proteus.exe file
 
 ## PyInstaller Artifacts
-**A build/ folder**
+* **A build/ folder**
 The build/ folder is where PyInstaller puts most of the metadata and internal bookkeeping for building your executable. The build folder can be useful for debugging
-**A dist/ folder**
+* **A dist/ folder**
 The dist/ folder contains the final artifact you’ll want to ship to your users. Inside the dist/ folder, there is a folder named after your entry-point. So in this project, you’ll have a dist/Proteus folder that contains all the dependencies and executable for our application. 
 You’ll also find lots of files with the extension .so, .pyd, and .dll depending on your Operating System. These are the shared libraries that represent the dependencies of your project that PyInstaller created and collected.
-**__pycache__ folder and .pyc files **
+* __pycache__ folder and .pyc files 
 Python is an interpreted language which means that your source code is translated into a set of instructions that can be understood by CPUs at run-time. When running your Python program, the source code is compiled into bytecode which is an implementation detail of CPython. The bytecode is also cached and stored in .pyc files so that the next time you re-run the code the execution of the same file will be faster.
 
 ## .Exe limitations
