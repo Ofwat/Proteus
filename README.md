@@ -3,18 +3,19 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#Setup) 
+* [Setup](#Setup)
+* [How to Run Python Scripts Using the Command-Line without using .exe file](#How-to-Run-Python-Scripts-Using-the-Command-Line-without-using-.exe-file)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Contact](#Contact) 
 
 ## General info
-Proteus is a data validation and verification software application that helps ensure that the collected data reflect its intended purpose. The application checks that data in the destination file (a company's set of business plan tables) matches certain expectations.  
+Proteus is a data validation and verification software application that helps ensure that collected data reflects its intended purpose. The application checks that data in the destination file (a company's set of business plan tables) matches certain expectations.  
 The tool automatically performs a level of verification of the populated data, matching all the records and flagging exceptions. 
-Proteus application should run after completing with data the version 5 of the business plan table template. 
+The Proteus application should be run after populating with data version 5 of the business plan table template. 
 	
 ## Technologies
-Project is created with:
+The project is created with:
 * Python 3.7.3
 * pyinstaller 5.12.0
 	
@@ -35,7 +36,21 @@ The steps to run .exe are as follows:
 7. Once the user has entered the file's name, the console will close. 
 8. If the application runs successfully, the user will see an error log file in the same folder. Please look at the "Example of Error Log file .txt" as an indicator on what this error log file would look like, if no errors are detected.  
 9. Open the Error Log File to view the results of the data validation rules. (If the application couldn't run then the error log file will be empty. There is no information to display.) 
-10. At the beginning of the file there is a timestamp showing when the error log was created. Every time the application runs a new version of error log file is created.  
+10. At the beginning of the file there is a timestamp showing when the error log was created. Every time the application runs a new version of error log file is created.
+
+## How to Run Python Scripts Using the Command-Line without using .exe file
+
+1. Download Proteus.py, rules.py, Comparison template: named: Comparion_PR24.xlsx and Populated template: named: V5 PUBLISH
+2. After data population save the populated template in the file format (.xlsx). To do so open the workbook you want to save. Click File > Save As. Pick the place where you want to save the workbook. For example, select Computer to save it in a local folder where Proteus.exe and Comparison template is also saved. In the Save as type list, click the file format Excel Workbook (*.xlsx).  
+3. Store the above four files in the same folder. 
+4. The user needs to install python or Anaconda Python platform in their machine. Anaconda Python allows you to write and execute code in the programming language Python. !The rest of the instructions applied if you have Anaconda Python platform installed in your machine.
+5. To open Anaconda Prompt: Go to Windows: Click Start, search for Anaconda Prompt, and click to open.
+6. Go to the location where the Proteus.py file is stored.
+7. Right-click the Proteus.py file. Properties: Click this option to immediately view the full file path (Location).
+8. Type ```cd [full file path]```
+9. Type in the word ```python Proteus.py``` and press Ender
+10. An Errol log file will be created in the same location where Python.py exists 
+   
 
 ## License
 Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ for more information.
