@@ -1,4 +1,4 @@
-#  How to create Proteus.exe
+#  How to create a .exe file (Proteus.exe) as a developer
 
 ## Table of contents
 * [General info](#general-info)
