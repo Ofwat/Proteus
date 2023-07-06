@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#Setup)
 * [How to Run Python Script Using the Command-Line without using .exe file](#How-to-Run-Python-Script-Using-the-Command-Line-without-using-.exe-file)
+* [How to download Proteus.exe from Github](#How-to-download-Proteus.exe-from-Github)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Contact](#Contact) 
@@ -49,9 +50,19 @@ The steps to run .exe are as follows:
 7. Right-click the Proteus.py file. Properties: Click this option to immediately view the full file path (Location).
 8. Type ```cd [full file path]```
 9. Type in the word ```python Proteus.py``` and press Ender
-10. An Errol log file will be created in the same location where Python.py exists 
-   
+10. An Errol log file will be created in the same location where Python.py exists
 
+## How to download Proteus.exe from Github
+
+1. Select the 'Proteus' repository on GitHub
+2. Click on the 'proteus.exe' tab 
+3. In the center of the screen click on 'view raw'
+4. Your computer should be downloading the file - save the file in your desired location
+5. The file is saved with a '.crdownload' file extension.  This is a temporary file extension used by the web browser.
+6. Rename it to 'Proteus.exe'. Without renaming the file you cannot run the appliction.
+7. A dialogue box will appear asking you to confirm your changes. Select ok.
+8. The .exe file should be ready to open.
+   
 ## License
 Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ for more information.
 
