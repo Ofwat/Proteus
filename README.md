@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#Setup)
-* [How to Run Python Scripts Using the Command-Line without using .exe file](#How-to-Run-Python-Scripts-Using-the-Command-Line-without-using-.exe-file)
+* [How to Run Python Script Using the Command-Line without using .exe file](#How-to-Run-Python-Script-Using-the-Command-Line-without-using-.exe-file)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Contact](#Contact) 
@@ -38,7 +38,7 @@ The steps to run .exe are as follows:
 9. Open the Error Log File to view the results of the data validation rules. (If the application couldn't run then the error log file will be empty. There is no information to display.) 
 10. At the beginning of the file there is a timestamp showing when the error log was created. Every time the application runs a new version of error log file is created.
 
-## How to Run Python Scripts Using the Command-Line without using .exe file
+## How to Run Python Script Using the Command-Line without using .exe file
 
 1. Download Proteus.py, rules.py, Comparison template: named: Comparion_PR24.xlsx and Populated template: named: V5 PUBLISH
 2. After data population save the populated template in the file format (.xlsx). To do so open the workbook you want to save. Click File > Save As. Pick the place where you want to save the workbook. For example, select Computer to save it in a local folder where Proteus.exe and Comparison template is also saved. In the Save as type list, click the file format Excel Workbook (*.xlsx).  
