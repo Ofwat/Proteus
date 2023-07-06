@@ -59,7 +59,7 @@ The steps to run .exe are as follows:
 3. In the center of the screen click on 'view raw'
 4. Your computer should be downloading the file - save the file in your desired location
 5. The file is saved with a '.crdownload' file extension.  This is a temporary file extension used by the web browser.
-6. Rename it to 'Proteus.exe'. Without renaming the file you cannot run the appliction.
+6. Rename it to 'Proteus.exe'. Without renaming the file you cannot run the application.
 7. A dialogue box will appear asking you to confirm your changes. Select ok.
 8. The .exe file should be ready to open.
    
