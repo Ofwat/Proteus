@@ -25,7 +25,7 @@ Project is created with:
   PyInstaller requires your application to conform to some structure. 
   Create an entry-point script named Proteus.py that imports your packages in our case rules.py and runs main(). 
   The first step to building an executable version of the project is to have the entry-point script.
-2. Download the Proteus.py, rules.py scripts, Proteus.spec, Comparison.xlsx, Populated.xlsx
+2. Download the Proteus.py, rules.py scripts, Proteus.spec, Comparison_PR24.xlsx, Populated.xlsx
 3. Store the above files five files in the same folder.  
 4. From the Start menu, search for and open the Anaconda Command Prompt.
 5. Type cd, a space, and then the location where .py files are stored For example in my case is: cd C:\Users\Maria.diapouli\OneDrive - OFWAT\Python\validation_tool\original\
