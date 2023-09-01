@@ -1,0 +1,1447 @@
+
+This file was created at: 01.Aug 2023 09:14:22
+
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_OUT ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_OUT 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_OUT8 ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Error in Row: 14, Reference: APR3A_27_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 14, Reference: APR3A_27_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 15, Reference: APR3A_28_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 15, Reference: APR3A_28_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 16, Reference: APR3A_29_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 16, Reference: APR3A_29_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 17, Reference: APR3A_30_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 17, Reference: APR3A_30_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 18, Reference: APR3A_31_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 18, Reference: APR3A_31_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 19, Reference: APR3A_32_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 19, Reference: APR3A_32_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 20, Reference: APR3A_33_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 20, Reference: APR3A_33_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 21, Reference: APR3A_34_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 21, Reference: APR3A_34_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 22, Reference: APR3A_35_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 22, Reference: APR3A_35_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 23, Reference: APR3A_36_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 23, Reference: APR3A_36_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 24, Reference: APR3A_37_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 24, Reference: APR3A_37_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 25, Reference: APR3A_38_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 25, Reference: APR3A_38_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 26, Reference: APR3A_39_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 26, Reference: APR3A_39_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 27, Reference: APR3A_40_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 27, Reference: APR3A_40_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 28, Reference: APR3A_41_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 28, Reference: APR3A_41_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 29, Reference: APR3A_42_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 29, Reference: APR3A_42_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 30, Reference: APR3A_43_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 30, Reference: APR3A_43_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 31, Reference: APR3A_44_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 31, Reference: APR3A_44_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 32, Reference: APR3A_45_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 32, Reference: APR3A_45_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 33, Reference: APR3A_46_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 33, Reference: APR3A_46_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 34, Reference: APR3B_18_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 34, Reference: APR3B_18_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 35, Reference: APR3B_19_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 35, Reference: APR3B_19_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 36, Reference: APR3B_20_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 36, Reference: APR3B_20_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 37, Reference: APR3B_21_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 37, Reference: APR3B_21_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 38, Reference: APR3B_22_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 38, Reference: APR3B_22_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 39, Reference: APR3B_23_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 39, Reference: APR3B_23_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 40, Reference: APR3B_24_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 40, Reference: APR3B_24_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 41, Reference: APR3B_25_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 41, Reference: APR3B_25_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 42, Reference: APR3B_26_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 42, Reference: APR3B_26_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 43, Reference: APR3B_27_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 43, Reference: APR3B_27_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 44, Reference: APR3B_28_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 44, Reference: APR3B_28_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 45, Reference: APR3B_29_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 45, Reference: APR3B_29_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 46, Reference: APR3B_30_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 46, Reference: APR3B_30_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 47, Reference: APR3B_31_PR24, Column: 2023-24, Value: 0, This is a text field, please check that your input is in text format
+Error in Row: 47, Reference: APR3B_31_PR24, Column: 2024-25, Value: 0, This is a text field, please check that your input is in text format
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_OUT8 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_RR ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Error in Row 518: 'Reference': nan, 'Reference' is a mandatory field and cannot have empty values
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_RR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_CW ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_CW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_CW_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Error in Row: 212, Reference: CW18_001_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 213, Reference: CW18_002_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 214, Reference: CW18_003_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 215, Reference: CW18_004_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 252, Reference: CW18_011_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 253, Reference: CW18_012_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 254, Reference: CW18_013_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 255, Reference: CW18_014_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 292, Reference: CW18_021_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 293, Reference: CW18_022_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 294, Reference: CW18_023_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 295, Reference: CW18_024_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 332, Reference: CW18_031_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 333, Reference: CW18_032_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 334, Reference: CW18_033_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 335, Reference: CW18_034_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 372, Reference: CW18_041_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 373, Reference: CW18_042_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 374, Reference: CW18_043_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 375, Reference: CW18_044_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 412, Reference: CW18_051_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 413, Reference: CW18_052_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 414, Reference: CW18_053_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 415, Reference: CW18_054_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 452, Reference: CW18_061_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 453, Reference: CW18_062_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 454, Reference: CW18_063_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 455, Reference: CW18_064_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 492, Reference: CW18_071_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 493, Reference: CW18_072_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 494, Reference: CW18_073_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 495, Reference: CW18_074_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 532, Reference: CW18_081_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 533, Reference: CW18_082_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 534, Reference: CW18_083_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 535, Reference: CW18_084_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 572, Reference: CW18_091_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 573, Reference: CW18_092_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 574, Reference: CW18_093_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 575, Reference: CW18_094_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_CW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_CWW ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_CWW 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_CWW_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Error in Row: 272, Reference: CWW18_001_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 273, Reference: CWW18_002_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 274, Reference: CWW18_003_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 275, Reference: CWW18_004_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 327, Reference: CWW18_011_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 328, Reference: CWW18_012_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 329, Reference: CWW18_013_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 330, Reference: CWW18_014_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 382, Reference: CWW18_021_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 383, Reference: CWW18_022_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 384, Reference: CWW18_023_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 385, Reference: CWW18_024_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 437, Reference: CWW18_031_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 438, Reference: CWW18_032_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 439, Reference: CWW18_033_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 440, Reference: CWW18_034_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 492, Reference: CWW18_041_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 493, Reference: CWW18_042_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 494, Reference: CWW18_043_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 495, Reference: CWW18_044_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 547, Reference: CWW18_051_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 548, Reference: CWW18_052_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 549, Reference: CWW18_053_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 550, Reference: CWW18_054_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 602, Reference: CWW18_061_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 603, Reference: CWW18_062_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 604, Reference: CWW18_063_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 605, Reference: CWW18_064_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 657, Reference: CWW18_071_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 658, Reference: CWW18_072_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 659, Reference: CWW18_073_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 660, Reference: CWW18_074_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 712, Reference: CWW18_081_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 713, Reference: CWW18_082_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 714, Reference: CWW18_083_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 715, Reference: CWW18_084_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 767, Reference: CWW18_091_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 768, Reference: CWW18_092_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 769, Reference: CWW18_093_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 770, Reference: CWW18_094_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_CWW_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_RES ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_RES 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_BIO ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_BIO 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_RET ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_RET 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_RET_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Error in Row: 4, Reference: RET4_001_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 5, Reference: RET4_002_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 6, Reference: RET4_003_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 7, Reference: RET4_004_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 14, Reference: RET4_011_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 15, Reference: RET4_012_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 16, Reference: RET4_013_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 17, Reference: RET4_014_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 24, Reference: RET4_021_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 25, Reference: RET4_022_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 26, Reference: RET4_023_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 27, Reference: RET4_024_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 34, Reference: RET4_031_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 35, Reference: RET4_032_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 36, Reference: RET4_033_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 37, Reference: RET4_034_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 44, Reference: RET4_041_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 45, Reference: RET4_042_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 46, Reference: RET4_043_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 47, Reference: RET4_044_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 54, Reference: RET4_051_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 55, Reference: RET4_052_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 56, Reference: RET4_053_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 57, Reference: RET4_054_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 64, Reference: RET4_061_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 65, Reference: RET4_062_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 66, Reference: RET4_063_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 67, Reference: RET4_064_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 74, Reference: RET4_071_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 75, Reference: RET4_072_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 76, Reference: RET4_073_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 77, Reference: RET4_074_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 84, Reference: RET4_081_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 85, Reference: RET4_082_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 86, Reference: RET4_083_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 87, Reference: RET4_084_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 94, Reference: RET4_091_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 95, Reference: RET4_092_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 96, Reference: RET4_093_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+Error in Row: 97, Reference: RET4_094_PR24, Column: 2025-30, Value: 0.0, This is a text field, please check that your input is in text format
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_RET_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_DS ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_DS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_DS_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_DS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_LS ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_LS 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_LS_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_LS_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_SUP ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_SUP 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_SUP_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_SUP_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_SUM ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_SUM 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_PD ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_PD 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_PD_MAN ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_PD_MAN 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+________________________________________________________________________________________________________________________________________________________
+
+*** Excel Sheet Name is: fOut_APR ***
+________________________________________________________________________________________________________________________________________________________
+
+*** Data Validation Rule 1 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Headers in Excel file should be in specific order and value. Headers are case sensitive. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 2 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode find pattern using *Regex*. Reference (BON code) should consist of the following in sequence: 
+An upper case letter. Zero or more upper case letters or underscores. At least one digit. Zero or more number upper case letters, underscores, or digits. 
+No lower case letters. Boncodes must not contain \- character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 3 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Reference (BON code) should have suffix _PR24
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 4 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Unit Column must be less than 21 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 5 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Type Checking. This verifies that the entered data has the appropriate data type 
+Description Column must be less than 230 characters 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 6 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Input validation rule checks that values entered by the user are formatted correctly. 
+For example, if Unit Column is named as Text, the user should enter a text 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
+
+*** Data Validation Rule 7 *** Excel Sheet Name: fOut_APR 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Boncode Consistency, Prevent accidental change and/or delete of Boncodes   
+Comparison between the original Boncodes versus the target Boncodes, where target Boncodes are those send by the companies after data submission.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Success, No Errors detected!
