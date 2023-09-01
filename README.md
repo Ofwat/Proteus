@@ -22,7 +22,7 @@ The project is created with:
 	
 ## Setup
 To run this project, you will need to download :  
-1. Comparison template: This is version 6 of the business plan table template published on our website. It does not contain any user input. This file is used as the basis of comparison with a company's set of business plan tables. The Excel file name is: Comparison.xlsx. 
+1. Comparison template: This is version 6 of the business plan table template published on our website. It does not contain any user input. This file is used as the basis of comparison with a company's set of business plan tables. The Excel file name is: Comparison_PR24.xlsx. 
 2. Populated template: This is the 'comparison template' although it should contain user input. Please fill in all the relevant sheets before running the application. 
 3. Proteus.exe: The .exe file is a Windows-specific executable file format. When the user triggers it, the computer runs the code that the file contains.
 
@@ -41,7 +41,7 @@ The steps to run .exe are as follows:
 
 ## How to Run Python Script Using the Command-Line without using .exe file
 
-1. Download Proteus.py, rules.py, Comparison template: named: Comparison.xlsx and Populated template: named: V6 PUBLISH
+1. Download Proteus.py, rules.py, Comparison template: named: Comparison_PR24.xlsx and Populated template: named: V6 PUBLISH
 2. After data population save the populated template in the file format (.xlsx). To do so open the workbook you want to save. Click File > Save As. Pick the place where you want to save the workbook. For example, select Computer to save it in a local folder where Proteus.exe and Comparison template is also saved. In the Save as type list, click the file format Excel Workbook (*.xlsx).  
 3. Store the above four files in the same folder. 
 4. The user needs to install python or Anaconda Python platform in their machine. Anaconda Python allows you to write and execute code in the programming language Python. !The rest of the instructions applied if you have Anaconda Python platform installed in your machine.
