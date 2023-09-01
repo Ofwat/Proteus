@@ -70,7 +70,7 @@ Distributed under the Open Goverment License. See [LICENSE.txt](https://www.nati
 If you have a suggestion that would make this better, pleace contact:
 PR24@ofwat.gov.uk ,
 maria.diapouli@ofwat.gov.uk ,  
-alex.whitmarsh@gov.uk
+alex.whitmarsh@ofwat.gov.uk
 
 ## Contact
 * Lead Developer: Maria Diapouli: maria.diapouli@ofwat.gov.uk
