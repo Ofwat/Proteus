@@ -32,8 +32,8 @@ def import_data(file_location,error_log_name):
             
 
             #Check if Exchel Sheet name exists        
-            if not found_dictionary:
-                print("Error message: A worksheet starting with 'Dict_' (a dictionary) was not found in worksheets", file=log)
+            #if not found_dictionary:
+            #    print("Error message: A worksheet starting with 'Dict_' (a dictionary) was not found in worksheets", file=log)
 
             if not found_f_outputs:
                 print("Error message: A worksheet starting with 'fOut_' (an F_Outputs sheet) was not found in worksheets", file=log)

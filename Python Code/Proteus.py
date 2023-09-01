@@ -31,7 +31,7 @@ if __name__ == "__main__":
         print(f"File location: {file_location} is invalid. Please provide a valid file location.")
         sys.exit()
     
-    original_file_location ='Comparion_PR24.xlsx'
+    original_file_location ='Comparison_PR24.xlsx'
   
 
      ## Functions to execute 
