@@ -7,14 +7,14 @@ def main(dict_of_sheets, original_dict_of_sheets, error_log_name):
     with open(error_log_name, "a") as log:      
         try: 
             for key, value in dict_of_sheets.items():
-                if value[1]=="fOut_":        
-                    if fOut_headers_consistency(key,value[0],error_log_name):  #Rule  1
-                        regex_boncode(key,value[0],error_log_name) #Rule 2
-                        check_suffix(key,value[0],error_log_name) #Rule 3 
-                        check_data_type_unit(key,value[0],error_log_name) #Rule 4
-                        check_data_type_description(key,value[0],error_log_name) #Rule 5
-                        user_input(key,value[0],error_log_name) #Rule 6
-                        boncode_Consistency(key,value[0],original_dict_of_sheets[key][0],error_log_name) #Rule 7
+                if value[1]=="fOut_":   
+                        if fOut_headers_consistency(key,value[0],error_log_name):  #Rule  1
+                            regex_boncode(key,value[0],error_log_name) #Rule 2
+                            check_suffix(key,value[0],error_log_name) #Rule 3 
+                            check_data_type_unit(key,value[0],error_log_name) #Rule 4
+                            check_data_type_description(key,value[0],error_log_name) #Rule 5
+                            user_input(key,value[0],error_log_name) #Rule 6
+                            boncode_Consistency(key,value[0],original_dict_of_sheets[key][0],error_log_name) #Rule 7
         except Exception:
             traceback.print_exc(file=log)
             pass 

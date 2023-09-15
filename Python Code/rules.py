@@ -263,6 +263,8 @@ def user_input(sheet_name,df,error_log_name):
                 for key in row.keys():
                     try:
                         if bool(regex_pattern.match(key)):
+                            if type(row[key]) == str:
+                                continue
                             if row[key]=="##BLANK":
                                 continue
                             elif row[key]==True:
