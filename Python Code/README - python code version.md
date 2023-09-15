@@ -29,7 +29,7 @@ Project is created with:
 3. Store the above files five files in the same folder.  
 4. From the Start menu, search for and open the Anaconda Command Prompt.
 5. Type cd, a space, and then the location where .py files are stored For example in my case is: cd C:\Users\Maria.diapouli\OneDrive - OFWAT\Python\validation_tool\original\
-6. Type ```pyinstaller  --onefile  --clean Proteus.py```
+6. Type ```pyinstaller  --onefile  --clean Proteus.py --hidden-import openpyxl.cell._writer```
   --onefile
   Package your entire application into a single executable file. The default options create a folder of dependencies and executable, whereas --onefile keeps distribution easier by creating only an executable.
 7. Once the installation is successful, you have two new folders created called BUILD and DIST, along with a new file with a .spec extension. The .Spec file has the same name as the python script file.PyInstaller creates a distribution directory, DIST containing the main executable and the dynamic libraries bundled in an executable file.
